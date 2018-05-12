@@ -1,0 +1,29 @@
+_repo: Essays-on-the-Constitution-of-the-United-States--13-Published-during-its-Discussion-by-the-Pe__31891
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Ford, Paul Leicester
+    birthdate: 1865
+    deathdate: 1902
+    gutenberg_agent_id: '1851'
+    url: http://www.gutenberg.org/2009/agents/1851
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Leicester_Ford
+description: ''
+gutenberg_issued: '2010-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KF'
+- !lcsh 'Constitutional history -- United States -- Sources'
+- !lcsh 'United States. Constitution'
+title: "Essays on the Constitution of the United States\r\nPublished during its Discussion\
+  \ by the People, 1787-1788"
+url: http://www.gutenberg.org/ebooks/31891
